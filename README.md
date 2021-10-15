@@ -4,15 +4,9 @@ Korang tahu tak sepanjang penubuhan Demokrat UM kesemua dana yang kami gunakan a
 
 Tak ada satu sen pun yang diperolehi dari mana-mana parti atau individu politik luar atau dalam kampus — agar kami dapat bebas dan jujur bersuara untuk mengkritik dan menetapkan pendirian kami tanpa apa-apa konflik kepentingan. ☝🏼
 
-Do you guys know that throughout Demokrat UM's establishment, funds are generated from T-shirt sales, fund-raisings during intellectual discourse, seniors' contribution, and mostly from the pockets of Komrad Demokrat themselves?
-
-Not one cent is contributed by external political parties, so that we can freely, transparently, and daringly express our stance without the concern of conflict of interest for monetary gains. ☝🏼
-
-### Perjuangan perlu diteruskan/ The fight must go on.
+### Perjuangan perlu diteruskan
 
 Demi meneruskan perjuangan kami dan memenuhkan ruang demokrasi dalam kampus dengan konten-konten yang lebih menarik, kami benar-benar menghargai setiap sumbangan terutamanya dengan sokongan pembelian #BarangDemokrat. Kali ini kami kembali dengan _design_ yang lebih _cool_ untuk t-shirt #IlmuPunchaKemajuan, dan yang paling _best_ sekali, kami ada barang baru! Segera dapatkan _tote bag_ Demokrat dan jadi lah _trendsetter_ dalam kalang member korang!🤘🏼
-
-But, in order to continue to fight for our cause of actions and to bring more interesting contents to you guys, we DEEPLY appreciate contribution in the form of purchasing our new merchandise lines #barangdemokrat. This time around we are back with cooler design for our #IlmuPunchaKemajuan T-shirt, and even a newly addition of Demokrat tote bag! So be the fashion trend-setter among your peeps and grab this items fast!🤘🏼
 
 
 ###BarangDemokrat
@@ -21,15 +15,12 @@ But, in order to continue to fight for our cause of actions and to bring more in
 **RM25**
 
 ![gambar tote bag](/BarangDemokrat/assets/tote bag.jpeg)
+**RM20**
 
-```
+#### Beli pakej lebih jimat!
+![gambar pakej](/BarangDemokrat/assets/package.jpeg)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Tempah sekarang di tinyurl.com/barangdemokrat
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DemokratUM/BarangDemokrat/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Follow kami di Instagram dan Twitter (@demokratmalaya) dan di Facebook (@demokratUM) untuk perkembangan terkini!
