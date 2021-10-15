@@ -1,4 +1,4 @@
-## Selamat datang ke Pasar Barang Demokrat!
+## Selamat datang ke Pasar Demokrat!
 
 Korang tahu tak sepanjang penubuhan Demokrat UM kesemua dana yang kami gunakan adalah hasil dari jualan t-shirt, sumbangan semasa program, sedekah dari alumni Demokrat UM, dan kebanyakkannya dari poket Komrad Demokrat sendiri?
 
