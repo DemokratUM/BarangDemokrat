@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Selamat datang ke Pasar Barang Demokrat!
 
 You can use the [editor on GitHub](https://github.com/DemokratUM/BarangDemokrat/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Do you guys know that throughout Demokrat UM's establishment, funds are generated from T-shirt sales, fund-raisings during intellectual discourse, seniors' contribution, and mostly from the pockets of Komrad Demokrat themselves?
 
 ### Markdown
 
