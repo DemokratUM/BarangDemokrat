@@ -14,14 +14,13 @@ Demi meneruskan perjuangan kami dan memenuhkan ruang demokrasi dalam kampus deng
 
 But, in order to continue to fight for our cause of actions and to bring more interesting contents to you guys, we DEEPLY appreciate contribution in the form of purchasing our new merchandise lines #barangdemokrat. This time around we are back with cooler design for our #IlmuPunchaKemajuan T-shirt, and even a newly addition of Demokrat tote bag! So be the fashion trend-setter among your peeps and grab this items fast!🤘🏼
 
-```markdown
-#BarangDemokrat
+
+###BarangDemokrat
 
 ![gambar baju](/BarangDemokrat/assets/baju.jpeg)
 **RM25**
 
 ![gambar tote bag](/BarangDemokrat/assets/tote bag.jpeg)
-**RM20**
 
 ```
 
