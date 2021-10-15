@@ -6,19 +6,19 @@ Tak ada satu sen pun yang diperolehi dari mana-mana parti atau individu politik 
 
 ### Perjuangan perlu diteruskan
 
-Demi meneruskan perjuangan kami dan memenuhkan ruang demokrasi dalam kampus dengan konten-konten yang lebih menarik, kami benar-benar menghargai setiap sumbangan terutamanya dengan sokongan pembelian #BarangDemokrat. Kali ini kami kembali dengan _design_ yang lebih _cool_ untuk t-shirt #IlmuPunchaKemajuan, dan yang paling _best_ sekali, kami ada barang baru! Segera dapatkan _tote bag_ Demokrat dan jadi lah _trendsetter_ dalam kalang member korang!
+Demi meneruskan perjuangan kami dan memenuhkan ruang demokrasi dalam kampus dengan konten-konten yang lebih menarik, kami benar-benar menghargai setiap sumbangan terutamanya dengan sokongan pembelian #BarangDemokrat. Kali ini kami kembali dengan _design_ yang lebih _cool_ untuk t-shirt #IlmuPunchaKemajuan, dan yang paling _best_ sekali, kami ada barang baru! Segera dapatkan _tote bag_ Demokrat dan jadi lah _trendsetter_ dalam kalangan member korang!
 
 
 **Barang Demokrat**
 
-![gambar baju](/BarangDemokrat/assets/baju.jpeg)
+![gambar baju](/PasarDemokrat/assets/baju.jpeg)
 **RM25**
 
-![gambar tote bag](/BarangDemokrat/assets/tote bag.jpeg)
+![gambar tote bag](/PasarDemokrat/assets/tote bag.jpeg)
 **RM20**
 
 #### Beli pakej lebih jimat!
-![gambar pakej](/BarangDemokrat/assets/package.jpeg)
+![gambar pakej](/PasarDemokrat/assets/package.jpeg)
 
 **Tempah sekarang di [Pasar Demokrat](https://tinyurl.com/barangdemokrat)**
 
