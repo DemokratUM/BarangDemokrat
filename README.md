@@ -9,7 +9,7 @@ Tak ada satu sen pun yang diperolehi dari mana-mana parti atau individu politik 
 Demi meneruskan perjuangan kami dan memenuhkan ruang demokrasi dalam kampus dengan konten-konten yang lebih menarik, kami benar-benar menghargai setiap sumbangan terutamanya dengan sokongan pembelian #BarangDemokrat. Kali ini kami kembali dengan _design_ yang lebih _cool_ untuk t-shirt #IlmuPunchaKemajuan, dan yang paling _best_ sekali, kami ada barang baru! Segera dapatkan _tote bag_ Demokrat dan jadi lah _trendsetter_ dalam kalang member korang!🤘🏼
 
 
-###BarangDemokrat
+**Barang Demokrat**
 
 ![gambar baju](/BarangDemokrat/assets/baju.jpeg)
 **RM25**
