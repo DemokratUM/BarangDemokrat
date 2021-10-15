@@ -20,7 +20,7 @@ Demi meneruskan perjuangan kami dan memenuhkan ruang demokrasi dalam kampus deng
 #### Beli pakej lebih jimat!
 ![gambar pakej](/BarangDemokrat/assets/package.jpeg)
 
-### Tempah sekarang di [Pasar Demokrat] (https://tinyurl.com/barangdemokrat)
+**Tempah sekarang di [Pasar Demokrat](https://tinyurl.com/barangdemokrat)**
 
 
-Follow kami di Instagram dan Twitter (@demokratmalaya) dan di Facebook (@demokratUM) untuk perkembangan terkini!
+Follow kami di Instagram [@demokratmalaya](https://www.instagram.com/demokratmalaya/) dan Twitter [@demokratmalaya](https://twitter.com/demokratmalaya), serta di Facebook [@demokratUM](https://www.facebook.com/DemokratUM) untuk perkembangan terkini!
