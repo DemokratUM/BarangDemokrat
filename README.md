@@ -12,24 +12,17 @@ Not one cent is contributed by external political parties, so that we can freely
 
 Demi meneruskan perjuangan kami dan memenuhkan ruang demokrasi dalam kampus dengan konten-konten yang lebih menarik, kami benar-benar menghargai setiap sumbangan terutamanya dengan sokongan pembelian #BarangDemokrat. Kali ini kami kembali dengan _design_ yang lebih _cool_ untuk t-shirt #IlmuPunchaKemajuan, dan yang paling _best_ sekali, kami ada barang baru! Segera dapatkan _tote bag_ Demokrat dan jadi lah _trendsetter_ dalam kalang member korang!🤘🏼
 
-But, in order to continue to fight for our cause of actions and to bring more interesting contents to you guys, we DEEPLY appreciate contribution in the form of purchasing our new merchandise lines #barangdemokrat. This time around we are back with cooler design for our #IlmuPunchaKebangkitan T-shirt, and even a newly addition of Demokrat tote bag! So be the fashion trend-setter among your peeps and grab this items fast!🤘🏼
+But, in order to continue to fight for our cause of actions and to bring more interesting contents to you guys, we DEEPLY appreciate contribution in the form of purchasing our new merchandise lines #barangdemokrat. This time around we are back with cooler design for our #IlmuPunchaKemajuan T-shirt, and even a newly addition of Demokrat tote bag! So be the fashion trend-setter among your peeps and grab this items fast!🤘🏼
 
 ```markdown
-Syntax highlighted code block
+#BarangDemokrat
 
-# Header 1
-## Header 2
-### Header 3
+![gambar baju](/BarangDemokrat/assets/baju.jpeg)
+**RM25**
 
-- Bulleted
-- List
+![gambar tote bag](/BarangDemokrat/assets/tote bag.jpeg)
+**RM20**
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
